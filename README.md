@@ -9,7 +9,7 @@ experiment and find a suitable threshold value I've found that 259 fit well for 
 
 Water is set to be pumped at 1 second increments as there is ~1sec delay from reading the sensor values of the soil moisture sensor and of course to avoid overflodding.
 
-# Components Utilizd
+# Components Utilized
 - Arduino Uno/micro (preference up to you)
 - dc water pump
 - dc power supply
